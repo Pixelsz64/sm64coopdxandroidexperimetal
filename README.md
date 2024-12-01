@@ -29,7 +29,7 @@ The wiki is made using GitHub's wiki feature, you can go to the wiki tab or clic
 Get a zip from this repo's releases, Extract it and install the APK.
 
 
-Copy your ROM to com.maniscat2.sm64coopdx (at internal storage).
+Copy your ROM to com.maniscat2.sm64coopdx/user (at internal storage).
 
 
 Rename it to baserom.us.z64
@@ -38,5 +38,5 @@ Rename it to baserom.us.z64
 Open the game, The game should load and you'll be able to play!
 
 ## Discord
-This SM64CoopDX android port has a discord server that you can join if you have question Or want to report bugs.
-[discord link](https://discord.gg/WzQSRfHh6g)
+This SM64CoopDX android port has a discord server that you can join if you have questions or want to report bugs.
+[Discord link](https://discord.gg/WzQSRfHh6g)
