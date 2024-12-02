@@ -1,4 +1,4 @@
-// SM64 (EU) Segment 19 - English
+// Android fix
 
 #include "macros.h"
 
